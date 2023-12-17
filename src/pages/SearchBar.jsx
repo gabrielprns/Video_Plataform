@@ -19,7 +19,7 @@ const SearchBar = () => {
     }}>
       
       <input 
-      style={{width:340, border:"none"}}
+      className='search-bar'
       placeholder='Search...'
       value=""
       onChange={()=>{}} />
