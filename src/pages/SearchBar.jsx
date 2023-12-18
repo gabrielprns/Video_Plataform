@@ -30,5 +30,9 @@ const SearchBar = () => {
     </Paper>
   )
 }
+/*Paper se trata de um componente comum para utilização de formulários */
+
+/* IconButton se trata de um componente responsável por armazenar
+icones em um componente botão, como exemplo adicionamos o icone de pesquisa */
 
 export default SearchBar

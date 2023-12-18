@@ -6,6 +6,7 @@ import SearchBar from './SearchBar'
 
 const NavBar = () => {
   return (
+    //container uni-dimensional 
     <Stack 
     direction = "row" 
     alignItens= "center" 
